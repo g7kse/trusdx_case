@@ -5,6 +5,6 @@ If you're looking for a source then I can recommend [MadeByIan](https://www.made
 
 ### On the to do list
 - [x] No text with cut out for screen
-- [ ] No text with no cut out
+- [x] No text with no cut out
 - [ ] Text with cut out for screen
 - [ ] Text with no cut out
